@@ -8,4 +8,4 @@ contains core player mechanics, client-server communication, and camera control 
 
 * **CameraController:** script responsible for camera control and visual effects.
 * **DirectionalWalk:** directional walking mechanics and movement logic.
-* **RunScript-Client:** client-side script managing user input for running and movement state.
+* **RunScript:** client-side script managing user input for running and movement state.
