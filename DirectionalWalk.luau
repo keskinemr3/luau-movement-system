@@ -1,3 +1,7 @@
+-- all credits to saint (1adetemre)
+-- if you are going to use this, please mention the creator; 1adetemre
+
+
 -- use this in starterplayerscripts
 -- use this with the roblox provided mouselock. if you use this with my cameracontroller, there will be a slight camera shakes.
 
